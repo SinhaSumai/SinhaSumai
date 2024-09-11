@@ -5,25 +5,36 @@
   <img src="https://komarev.com/ghpvc/?username=sinhasumai&label=Profile%20views&color=0e75b6&style=flat" alt="sinhasumai" /> 
 </p>
 
-<h3 align="left">Education:</h3>
-<ul>
-  <li><b>BSc in Computer Science and Engineering</b> | BRAC University, Bangladesh (2020–2024) - CGPA: 3.81/4.00</li></ul>
-  
+<h2 align="left">📘 Education</h2>
+<div style="border: 1px solid #e0e0e0; padding: 10px; border-radius: 5px;">
+  <ul>
+    <li><b>BSc in Computer Science and Engineering</b> | BRAC University, Bangladesh (2020–2024)</li>
+    <li>CGPA: 3.81/4.00</li>
+  </ul>
+</div>
 
-<h3 align="left">Work Experience:</h3>
-<ul>
-  <li><b>UIUC Summer Researcher</b> | University of Illinois at Urbana-Champaign (Remote) (April 2024 – August 2024)</li>
-  <li><b>STUDENT TUTOR</b> | BRAC University (October 2022 – January 2024)</li>
-  <li><b>Intern</b> | Worthy Books (September 2020 – December 2020)</li>
-</ul>
+<h2 align="left">💼 Work Experience</h2>
+<div style="border: 1px solid #e0e0e0; padding: 10px; border-radius: 5px;">
+  <ul>
+    <li><b>UIUC Summer Researcher</b> | University of Illinois at Urbana-Champaign (Remote)</li>
+    <li><b>Student Tutor</b> | BRAC University</li>
+    <li><b>Intern</b> | Worthy Books</li>
+  </ul>
+</div>
 
 <h3 align="left">Know More: <a href="https://docs.google.com/document/d/1wU1spPRBOHydxHEGdy5W4LFGAABE8MY-/edit?usp=sharing&ouid=115870786687753206143&rtpof=true&sd=true" target="_blank">Resume</a></h3>
 
- <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="mailto:sumaiya.sinha@g.bracu.ac.bd" target="blank"><img align="center" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg" alt="email" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sumaiya-sinha-1a42a8296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumaiya-sinha-1a42a8296" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sumaiya_sinha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/sumaiya_sinha" height="30" width="40" /></a>
+  <a href="mailto:sumaiya.sinha@g.bracu.ac.bd" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg" alt="email" height="30" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/sumaiya-sinha-1a42a8296" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumaiya-sinha-1a42a8296" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/sumaiya_sinha" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/sumaiya_sinha" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
