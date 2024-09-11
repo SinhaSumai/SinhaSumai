@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumaiya Sinha</h1>
+<h1 align="center">Hi, I'm Sumaiya Sinha</h1>
 <h3 align="center">A Passionate Software Engineer and AI Enthusiast from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinhasumai&label=Profile%20views&color=0e75b6&style=flat" alt="sinhasumai" /> </p>
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sumaiya.sinha@g.bracu.ac.bd**
 
-- 📄 Resume [https://docs.google.com/document/d/1wU1spPRBOHydxHEGdy5W4LFGAABE8MY-/edit?usp=sharing&ouid=115870786687753206143&rtpof=true&sd=true](https://docs.google.com/document/d/1wU1spPRBOHydxHEGdy5W4LFGAABE8MY-/edit?usp=sharing&ouid=115870786687753206143&rtpof=true&sd=true)
+- 📄 Know More About Me [Resume](https://docs.google.com/document/d/1wU1spPRBOHydxHEGdy5W4LFGAABE8MY-/edit?usp=sharing&ouid=115870786687753206143&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
