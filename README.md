@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sinhasumai&label=Profile%20views&color=0e75b6&style=flat" alt="sinhasumai" /> 
 </p>
 
-
 <h2 align="left">📘 Education</h2>
 <div style="border: 1px solid #e0e0e0; padding: 10px; border-radius: 5px;">
   <ul>
@@ -13,8 +12,6 @@
     <li>CGPA: 3.81/4.00</li>
   </ul>
 </div>
-
-<hr>
 
 <h2 align="left">💼 Work Experience</h2>
 <div style="border: 1px solid #e0e0e0; padding: 10px; border-radius: 5px;">
@@ -29,8 +26,6 @@
 
 <h3 align="left">Know More: <a href="https://docs.google.com/document/d/1wU1spPRBOHydxHEGdy5W4LFGAABE8MY-/edit?usp=sharing&ouid=115870786687753206143&rtpof=true&sd=true" target="_blank">Resume</a></h3>
 
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:sumaiya.sinha@g.bracu.ac.bd" target="blank">
@@ -43,8 +38,6 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="profile/sumaiya_sinha" height="30" width="40" />
   </a>
 </p>
-
-<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -91,8 +84,6 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
   </a> 
 </p>
-
-
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinhasumai&show_icons=true&locale=en" alt="sinhasumai" /></p>
 
