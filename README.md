@@ -18,7 +18,6 @@
   <ul>
     <li><b>UIUC Summer Researcher</b> | University of Illinois at Urbana-Champaign (Remote)</li>
     <li><b>Student Tutor</b> | BRAC University</li>
-    <li><b>Intern</b> | Worthy Books</li>
   </ul>
 </div>
 
