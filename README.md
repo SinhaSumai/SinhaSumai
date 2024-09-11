@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sumaiya Sinha</h1>
+<h1 align="center">Hey, I'm Sumaiya Sinha</h1>
 <h3 align="center">A Passionate Software Engineer and AI Enthusiast from Bangladesh</h3>
 
 <p align="left"> 
@@ -86,5 +86,6 @@
 </p>
 
 <!-- GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinhasumai&show_icons=true&count_private=true&include_all_commits=true&locale=en&hide=issues,contribs" alt="Total Contributions" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinhasumai&show_icons=true&locale=en&theme=dark" alt="sinhasumai" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinhasumai&theme=dark" alt="sinhasumai" /></p>
