@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=sinhasumai&label=Profile%20views&color=0e75b6&style=flat" alt="sinhasumai" /> 
 </p>
 
-<hr>
 
 <h2 align="left">📘 Education</h2>
 <div style="border: 1px solid #e0e0e0; padding: 10px; border-radius: 5px;">
@@ -30,7 +29,7 @@
 
 <h3 align="left">Know More: <a href="https://docs.google.com/document/d/1wU1spPRBOHydxHEGdy5W4LFGAABE8MY-/edit?usp=sharing&ouid=115870786687753206143&rtpof=true&sd=true" target="_blank">Resume</a></h3>
 
-<hr>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -93,7 +92,7 @@
   </a> 
 </p>
 
-<hr>
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinhasumai&show_icons=true&locale=en" alt="sinhasumai" /></p>
 
