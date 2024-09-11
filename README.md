@@ -86,6 +86,11 @@
 </p>
 
 <!-- GitHub Stats -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinhasumai&show_icons=true&locale=en&theme=dark" alt="sinhasumai" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sinhasumai&show_icons=true&locale=en&theme=dark" alt="sinhasumai" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinhasumai&theme=dark" alt="sinhasumai" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sinhasumai&theme=dark" alt="sinhasumai" />
+</p>
+
