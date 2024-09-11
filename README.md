@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN, Java(advance), React, LLM**
 
-- 📫 How to reach me **sumaiya.sinha@g.bracu.ac.bd**
+- 📫 How to reach me [Email](mailto:sumaiya.sinha@g.bracu.ac.bd)
 
 - 📄 Know More About Me [Resume](https://docs.google.com/document/d/1wU1spPRBOHydxHEGdy5W4LFGAABE8MY-/edit?usp=sharing&ouid=115870786687753206143&rtpof=true&sd=true)
 
