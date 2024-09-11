@@ -29,7 +29,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:sumaiya.sinha@g.bracu.ac.bd" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/feathericons/feather/master/icons/mail.svg" alt="email" height="30" width="40" />
+    <img align="center" src="https://img.icons8.com/material-outlined/24/000000/new-post.png" alt="email" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/sumaiya-sinha-1a42a8296" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sumaiya-sinha-1a42a8296" height="30" width="40" />
