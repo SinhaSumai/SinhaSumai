@@ -85,6 +85,8 @@
   </a> 
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinhasumai&show_icons=true&locale=en" alt="sinhasumai" /></p>
+<!-- GitHub Stats -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sinhasumai&show_icons=true&count_private=true&include_all_commits=true&locale=en" alt="sinhasumai" /></p>
 
+<!-- GitHub Streak Stats -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sinhasumai&" alt="sinhasumai" /></p>
