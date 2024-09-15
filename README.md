@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Sumaiya Sinha</h1>
-<h3 align="center">A Passionate Software Engineer and AI Enthusiast from Bangladesh</h3>
+<h3 align="center">A Passionate Fronted Developer and AI Enthusiast from Bangladesh</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sinhasumai&label=Profile%20views&color=0e75b6&style=flat" alt="sinhasumai" /> 
