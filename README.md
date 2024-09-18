@@ -16,7 +16,6 @@
 <h2 align="left">💼 Work Experience</h2>
 <div style="border: 1px solid #e0e0e0; padding: 10px; border-radius: 5px;">
   <ul>
-    <li><b>UIUC Summer Researcher</b> | University of Illinois at Urbana-Champaign (Remote)</li>
     <li><b>Student Tutor</b> | BRAC University</li>
   </ul>
 </div>
