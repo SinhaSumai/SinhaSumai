@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Sumaiya Sinha 👋</h1>
-<h3 align="center">Machine Learning Engineer | NLP & Computer Vision Researcher | From Bangladesh</h3>
+<h3 align="center">Machine Learning Engineer | NLP & Computer Vision Researcher</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sinhasumai&label=Profile%20views&color=0e75b6&style=flat" alt="sinhasumai" />
@@ -7,83 +7,74 @@
 
 ---
 
-## 🎓 Education
-**B.Sc. in Computer Science and Engineering** — BRAC University, Dhaka, Bangladesh (May 2024)  
-**CGPA:** 3.81 / 4.00 — *Highest Distinction*  
-**Honors:** Dean’s List (3×), Vice Chancellor’s List (2×)  
+## 🧭 About Me
+I'm a **Machine Learning Engineer** and researcher passionate about bridging **language and vision** through intelligent systems.  
+My interests lie in **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **multimodal learning** — particularly in low-resource, multilingual, and explainable AI contexts.
 
-**Relevant Coursework:** Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Algorithms, Linear Algebra, Probability & Statistics
+Currently, I’m exploring:
+- 🧠 Transformer-based architectures and hybrid models for multilingual understanding  
+- 👁️ Vision–Language integration and 3D data annotation workflows  
+- ⚙️ Scalable AI evaluation frameworks using large language models  
 
----
-
-## 🔬 Research Experience
-
-**Undergraduate Thesis — BRAC University (2024)**  
-*“Identifying Code-Mixed and Code-Switched Hateful Remarks on Social Media using NLP”*  
-- Proposed a **multi-model Transformer** framework combining BERT, BanglaBERT, mBERT, and LSTM-GRU hybrids for multilingual hate speech detection.  
-- Designed a **Bangla-English preprocessing pipeline** with normalization, transliteration, and focal loss rebalancing.  
-- Built a **7,000-sample annotated dataset** in collaboration with Bengali.ai.  
-- Achieved **90% accuracy** and a **12% F1 improvement** over baseline models.  
-- Conducted **ablation studies** showing BanglaBERT + LSTM fusion optimal for low-resource multilingual classification.
-
-**Research Intern — Crowd Research Project (UIUC, Remote) (Apr–Aug 2024)**  
-*Supervisors: Prof. Darko Marinov & Dr. Reyhan Jabbarvand*  
-- Replicated and extended *Lost in Translation* study with **LLM-generated Rust translation experiments**.  
-- Evaluated GPT-based outputs vs. C2Rust benchmarks for **syntactic correctness and code fidelity**.  
-- Proposed **readability and trust metrics** using Rust compiler diagnostics and linter feedback.  
-- Contributed to mutation-based evaluation dataset with 30+ manually labeled mutants.
+I aim to build systems that are not only accurate, but also interpretable, reproducible, and grounded in real-world data.
 
 ---
 
-## 💼 Professional Experience
+## 🎓 Academic Background
+**B.Sc. in Computer Science and Engineering**, BRAC University (2024)  
+Graduated with *Highest Distinction* (CGPA 3.81/4.00)  
+Honors: Dean’s List ×3 | Vice Chancellor’s List ×2  
 
-**Machine Learning Engineer — Bengal Byte (Remote) (Sep 2024 – Present)**  
-- Developing **computer vision and multimodal AI models** for internal research and benchmarking.  
-- Built the **LLM Judge framework** integrating large language models for automated evaluation of CV systems.
-
-**Teaching Assistant — BRAC University (Oct 2022 – Jan 2024)**  
-- Assisted in undergraduate AI and programming courses; graded projects and led tutorials.  
-- Designed problem-solving materials and guided students in concept clarification.
-
----
-
-## 🧠 Technical Skills
-
-| Category | Skills |
-|-----------|--------|
-| **Languages** | Python, JavaScript, Java |
-| **ML/DL Frameworks** | PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face Transformers |
-| **Techniques** | NLP, Transfer Learning, Fine-Tuning, CNN, RNN, LSTM, GRU, YOLO, Cross-Lingual Modeling |
-| **Tools** | Git, Docker, Linux, VS Code, Roboflow, Anaconda |
+**Undergraduate Thesis:**  
+*Identifying Code-Mixed and Code-Switched Hateful Remarks on Social Media using NLP*  
+→ Focused on **Transformer-based multilingual text classification** with custom preprocessing and focal loss rebalancing.
 
 ---
 
-## 🔍 Research Interests
-- **Natural Language Processing:** multilingual learning, code-mixing, transformer-based text understanding  
-- **Computer Vision:** multimodal perception, 3D and LiDAR annotation, vision-language fusion  
-- **ML Systems:** reproducibility, MLOps, benchmarking, evaluation automation  
-- **Neural Computation:** interpretability, efficiency, and representation learning
+## 🔬 Research & Engineering Focus
+- **Natural Language Processing:** code-mixing, sentiment & hate-speech analysis, transformer fine-tuning  
+- **Computer Vision:** multimodal perception, dataset annotation, LiDAR-based vision pipelines  
+- **Large Language Models:** evaluation, prompt engineering, interpretability, and model alignment  
+- **MLOps & Systems:** reproducibility, model serving, and continuous benchmarking  
 
 ---
 
-## 🌐 Connect with Me
+## 🛠️ Tools & Technologies
 <p align="left">
-  <a href="mailto:sumaiya.sinha@g.bracu.ac.bd" target="blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="gmail" height="30" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="PyTorch"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="TensorFlow"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-learn"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="OpenCV"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
+</p>
+
+---
+
+## 🌱 Current Goals
+- Expanding my **multimodal research portfolio** with reproducible open-source implementations.  
+- Collaborating on **vision-language alignment** projects combining LLMs and CV models.  
+- Exploring the intersection of **AI evaluation** and **human-centered NLP**.
+
+---
+
+## 🤝 Connect With Me
+<p align="left">
+  <a href="mailto:sumaiya.sinha@g.bracu.ac.bd">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" height="30" width="40" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/sumaiya-sinha-1a42a8296" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+  <a href="https://linkedin.com/in/sumaiya-sinha-1a42a8296">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/SinhaSumai" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
+  <a href="https://github.com/SinhaSumai">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" alt="GitHub"/>
   </a>
 </p>
 
 ---
 
-## 📄 Resume
-[View my full Research CV (Google Drive)](https://docs.google.com/document/d/1wU1spPRBOHydxHEGdy5W4LFGAABE8MY-/edit?usp=sharing)
-
----
-
-<p align="center"><i>“Exploring the intersection of language, vision, and intelligence — one model at a time.”</i></p>
+<p align="center"><i>“Building interpretable systems where language meets vision.”</i></p>
