@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Sumaiya Sinha 👋</h1>
-<h3 align="center">Machine Learning Engineer | NLP & Computer Vision Enthusiast | From Bangladesh</h3>
+<h3 align="center">Machine Learning Engineer | NLP & Computer Vision Researcher | From Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sinhasumai&label=Profile%20views&color=0e75b6&style=flat" alt="sinhasumai" />
@@ -8,72 +8,61 @@
 ---
 
 ## 🎓 Education
-<div style="border: 1px solid #e0e0e0; padding: 10px; border-radius: 5px;">
-<ul>
-  <li><b>BSc in Computer Science and Engineering</b> — BRAC University, Bangladesh (2020–2024)</li>
-  <li>CGPA: <b>3.81 / 4.00</b></li>
-</ul>
-</div>
+**B.Sc. in Computer Science and Engineering** — BRAC University, Dhaka, Bangladesh (May 2024)  
+**CGPA:** 3.81 / 4.00 — *Highest Distinction*  
+**Honors:** Dean’s List (3×), Vice Chancellor’s List (2×)  
+
+**Relevant Coursework:** Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, Algorithms, Linear Algebra, Probability & Statistics
 
 ---
 
-## 💼 Work Experience
-<div style="border: 1px solid #e0e0e0; padding: 10px; border-radius: 5px;">
-<ul>
-  <li><b>Data Manager</b> | Bengal Byte (Remote) (Sep 2024 – Present)
-    <ul>
-      <li>Applied AI-based models and annotation tools for image and data processing.</li>
-      <li>Collaborating on large-scale datasets for machine learning applications.</li>
-    </ul>
-  </li>
+## 🔬 Research Experience
 
-  <li><b>Research Intern</b> | Crowd Research Project (Remote) (Apr 2024 – Aug 2024)
-    <ul>
-      <li>Supervised by <i>Prof. Darko Marinov</i> and <i>Dr. Reyhan Jabbarvand</i> (UIUC).</li>
-      <li>Conducted research on applying Large Language Models (LLMs) for software engineering tasks.</li>
-    </ul>
-  </li>
+**Undergraduate Thesis — BRAC University (2024)**  
+*“Identifying Code-Mixed and Code-Switched Hateful Remarks on Social Media using NLP”*  
+- Proposed a **multi-model Transformer** framework combining BERT, BanglaBERT, mBERT, and LSTM-GRU hybrids for multilingual hate speech detection.  
+- Designed a **Bangla-English preprocessing pipeline** with normalization, transliteration, and focal loss rebalancing.  
+- Built a **7,000-sample annotated dataset** in collaboration with Bengali.ai.  
+- Achieved **90% accuracy** and a **12% F1 improvement** over baseline models.  
+- Conducted **ablation studies** showing BanglaBERT + LSTM fusion optimal for low-resource multilingual classification.
 
-  <li><b>Teaching Assistant</b> | BRAC University (Oct 2022 – Jan 2024)
-    <ul>
-      <li>Assessed student projects and assignments; provided technical guidance and feedback.</li>
-      <li>Conducted one-on-one and group sessions to support learning outcomes.</li>
-    </ul>
-  </li>
-
-  <li><b>Intern</b> | Worthy Books, Dhaka (Sep 2020 – Dec 2020)
-    <ul>
-      <li>Worked on content development and editorial tasks for publishing projects.</li>
-      <li>Enhanced project workflows through coordination and quality review.</li>
-    </ul>
-  </li>
-</ul>
-</div>
+**Research Intern — Crowd Research Project (UIUC, Remote) (Apr–Aug 2024)**  
+*Supervisors: Prof. Darko Marinov & Dr. Reyhan Jabbarvand*  
+- Replicated and extended *Lost in Translation* study with **LLM-generated Rust translation experiments**.  
+- Evaluated GPT-based outputs vs. C2Rust benchmarks for **syntactic correctness and code fidelity**.  
+- Proposed **readability and trust metrics** using Rust compiler diagnostics and linter feedback.  
+- Contributed to mutation-based evaluation dataset with 30+ manually labeled mutants.
 
 ---
 
-## 🧠 Areas of Interest
-- **Natural Language Processing (NLP)** — text understanding, transformer models, LLM applications  
-- **Computer Vision (CV)** — image recognition, annotation pipelines, LiDAR + 3D analysis  
-- **Machine Learning Systems** — end-to-end ML pipelines, MLOps, model serving  
-- **Research Engineering** — neural computation, AI evaluation, and interpretability  
+## 💼 Professional Experience
+
+**Machine Learning Engineer — Bengal Byte (Remote) (Sep 2024 – Present)**  
+- Developing **computer vision and multimodal AI models** for internal research and benchmarking.  
+- Built the **LLM Judge framework** integrating large language models for automated evaluation of CV systems.
+
+**Teaching Assistant — BRAC University (Oct 2022 – Jan 2024)**  
+- Assisted in undergraduate AI and programming courses; graded projects and led tutorials.  
+- Designed problem-solving materials and guided students in concept clarification.
 
 ---
 
-## 🧰 Languages & Tools
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-</p>
+## 🧠 Technical Skills
+
+| Category | Skills |
+|-----------|--------|
+| **Languages** | Python, JavaScript, Java |
+| **ML/DL Frameworks** | PyTorch, TensorFlow, Keras, scikit-learn, Hugging Face Transformers |
+| **Techniques** | NLP, Transfer Learning, Fine-Tuning, CNN, RNN, LSTM, GRU, YOLO, Cross-Lingual Modeling |
+| **Tools** | Git, Docker, Linux, VS Code, Roboflow, Anaconda |
+
+---
+
+## 🔍 Research Interests
+- **Natural Language Processing:** multilingual learning, code-mixing, transformer-based text understanding  
+- **Computer Vision:** multimodal perception, 3D and LiDAR annotation, vision-language fusion  
+- **ML Systems:** reproducibility, MLOps, benchmarking, evaluation automation  
+- **Neural Computation:** interpretability, efficiency, and representation learning
 
 ---
 
@@ -85,17 +74,15 @@
   <a href="https://linkedin.com/in/sumaiya-sinha-1a42a8296" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/profile/sumaiya_sinha" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
+  <a href="https://github.com/SinhaSumai" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="github" height="30" width="40" />
   </a>
 </p>
 
 ---
 
-## 📄 Learn More
-<h4 align="left">
-  <a href="https://docs.google.com/document/d/1wU1spPRBOHydxHEGdy5W4LFGAABE8MY-/edit?usp=sharing" target="_blank">View My Resume</a>
-</h4>
+## 📄 Resume
+[View my full Research CV (Google Drive)](https://docs.google.com/document/d/1wU1spPRBOHydxHEGdy5W4LFGAABE8MY-/edit?usp=sharing)
 
 ---
 
