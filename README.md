@@ -9,23 +9,16 @@
 
 ## 🧭 About Me
 I'm a **Machine Learning Engineer** and researcher passionate about bridging **language and vision** through intelligent systems.  
-My interests lie in **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **multimodal learning** — particularly in low-resource, multilingual, and explainable AI contexts.
-
-Currently, I’m exploring:
-- 🧠 Transformer-based architectures and hybrid models for multilingual understanding  
-- 👁️ Vision–Language integration and 3D data annotation workflows  
-- ⚙️ Scalable AI evaluation frameworks using large language models  
-
-I aim to build systems that are not only accurate, but also interpretable, reproducible, and grounded in real-world data.
+My interests lie in **Natural Language Processing (NLP)**, **Computer Vision (CV)**, and **multimodal LLM**
 
 ---
 
 ## 🎓 Academic Background
 **B.Sc. in Computer Science and Engineering**, BRAC University (2024)  
 Graduated with *Highest Distinction* (CGPA 3.81/4.00)  
-Honors: Dean’s List ×3 | Vice Chancellor’s List ×2  
 
-**Undergraduate Thesis:**  
+
+**Thesis:**  
 *Identifying Code-Mixed and Code-Switched Hateful Remarks on Social Media using NLP*  
 → Focused on **Transformer-based multilingual text classification** with custom preprocessing and focal loss rebalancing.
 
