@@ -67,7 +67,3 @@ Graduated with *Highest Distinction* (CGPA 3.81/4.00)
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" alt="GitHub"/>
   </a>
 </p>
-
----
-
-<p align="center"><i>“Building interpretable systems where language meets vision.”</i></p>
